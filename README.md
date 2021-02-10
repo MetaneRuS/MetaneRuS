@@ -1,16 +1,20 @@
 ### Hi there 👋
+![](https://image.freepik.com/free-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg)
+```js
+class Person {
+    name = "Dawid"
+    age = "22"
+    nationality = "Polish"
+    hobbies = ["Music", "Computer games", "Movies"]
+}
 
-<!--
-**MetaneRuS/MetaneRuS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Programming {
+    languages = ["Javascript"]
+    stylesheets =  ["CSS"]
+    learning = ["React"]
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Social {
+    github = "MetaneRuS"
+}
+```
