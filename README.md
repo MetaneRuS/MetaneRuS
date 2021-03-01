@@ -16,5 +16,6 @@ class Programming {
 
 class Social {
     github = "MetaneRuS"
+    codepen = "MetaneRuS"
 }
 ```
