@@ -11,7 +11,7 @@ class Person {
 class Programming {
     languages = ["Javascript"]
     stylesheets =  ["CSS"]
-    learning = ["React"]
+    learning = ["React", "Redux", "Typescript"]
 }
 
 class Social {
